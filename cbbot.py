@@ -6,7 +6,6 @@ import asyncio
 import youtube_dl
 import threading
 
-token = "OTIyNjczNDE0OTk1NTgzMDA3.G-6cNg.xqa5JoOzRJjwTmKrnsdw6I3M1CJtEB6CoDG7n8"
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
